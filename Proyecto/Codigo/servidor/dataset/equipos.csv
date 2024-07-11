@@ -1,0 +1,25 @@
+﻿id,nombre,grupo,logo
+1,Italia,A,/logos/italia.png
+2,Gales,A,/logos/gales.png
+3,Suiza,A,/logos/suiza.png
+4,Turquia,A,/logos/turquia.png
+5,Belgica,B,/logos/belgica.png
+6,Dinamarca,B,/logos/dinamarca.png
+7,Finlandia,B,/logos/finlandia.png
+8,Rusia,B,/logos/rusia.png
+9,Paises Bajos,C,/logos/paises_bajos.png
+10,Austria,C,/logos/austria.png
+11,Ucrania,C,/logos/ucrania.png
+12,Macedonia del Norte,C,/logos/macedonia.png
+13,Inglaterra,D,/logos/inglaterra.png
+14,Croacia,D,/logos/croacia.png
+15,Republica Checa,D,/logos/republica_checa.png
+16,Escocia,D,/logos/escocia.png
+17,Suecia,E,/logos/suecia.png
+18,España,E,/logos/españa.png
+19,Eslovaquia,E,/logos/eslovaquia.png
+20,Polonia,E,/logos/polonia.png
+21,Francia,F,/logos/francia.png
+22,Alemania,F,/logos/alemania.png
+23,Portugal,F,/logos/portugal.png
+24,Hungria,F,/logos/hungria.png

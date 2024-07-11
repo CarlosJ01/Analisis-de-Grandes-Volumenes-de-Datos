@@ -1,0 +1,5 @@
+nombres, string,
+fechaNac, date,
+id, int,
+sueldos, double,
+casado, bool,
